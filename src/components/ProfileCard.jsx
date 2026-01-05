@@ -85,7 +85,7 @@ const ProfileCard = () => {
         }`} style={{ transitionDelay: '0.2s' }}>
           <h2 className="text-2xl font-bold bg-gradient-to-r from-slate-800 via-slate-700 to-slate-800 bg-clip-text text-transparent mb-1 tracking-tight">Durgesh Kumar</h2>
           <p className="text-slate-500 font-medium text-sm mb-2 tracking-wide">@durgesh103</p>
-          <div className="text-violet-600 font-semibold text-sm mb-3">Frontend Developer</div>
+          <div className="text-violet-600 font-semibold text-sm mb-3">Full-Stack Developer</div>
           <div className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200/50 rounded-full">
             <FaCheckCircle className="w-3 h-3 text-amber-500" />
             <span className="text-amber-700 text-xs font-medium">Verified Creator</span>
